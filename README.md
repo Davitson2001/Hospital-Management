@@ -1,1 +1,1 @@
-Welcome Hospital Management Progect
+Welcome Hospital Management Project
